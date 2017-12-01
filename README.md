@@ -1,4 +1,4 @@
-###360
+### 360
 
 This is my 360 project
 
@@ -10,4 +10,6 @@ Camera Effects
 
 This is my camera Effects Project
 
-https://github.com/alexandercampos1/alexandercampos1.github.io/blob/master/Alexander.PNG
+![Alexander](https://github.com/alexandercampos1/alexandercampos1.github.io/blob/master/Alexander.PNG?raw=true "Optional Title")
+
+***
