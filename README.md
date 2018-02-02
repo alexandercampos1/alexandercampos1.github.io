@@ -18,4 +18,4 @@ Storyscape
 
 This is my storyscape Project
 
-<script src="/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/alexandercampos/w" ></script>
+<script src="//360.vizor.io/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/alexandercampos/w" ></script>
